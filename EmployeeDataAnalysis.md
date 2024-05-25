@@ -176,7 +176,8 @@ and "JobFunctionDescription."
 ***
 20. Develop a dashboard that provides an overview of key HR metrics, including headcount, performance, and training costs, using charts and pivot tables.
 
-![image](https://github.com/khushi-sabarad/psyliq_data_analyst_internship/assets/71957748/8e300d62-3167-4112-9fd9-302b13a84ef1)
+![image](https://github.com/khushi-sabarad/BigDataAnalysis/assets/71957748/00a071ec-212d-457c-9b31-4fe84d6e25af)
+
 
 
 ***
