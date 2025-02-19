@@ -1,4 +1,4 @@
-# Data Analytics Intern @ Psyliq
+# Data Analyst - Intern @ Psyliq
 
 ## Tools: MS Excel, MySQL, PowerBI
 
